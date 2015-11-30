@@ -14,9 +14,6 @@
 #define DOING_STUFF_LED 22
 #define BUSY_LED 4
 
-#define BUSY_MODE 1
-#define CONTROL_OK 0
-
 Servo left_wheel;  
 Servo right_wheel;  
 
